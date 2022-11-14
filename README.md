@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm faa</h1>
-<h3 align="center">Currently in training to become a frontend developer.</h3>
+<h3 align="center">Currently training to become a frontend developer.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
