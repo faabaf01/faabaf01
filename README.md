@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm faa</h1>
-<h3 align="center">Currently training to become a frontend developer.</h3>
+<h1 align="center">Hi 👋, I'm Farah</h1>
+<h3 align="center">Passionate about Frontend Web Development. Currently learning User Experience Design skills.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
