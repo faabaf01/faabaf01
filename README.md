@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Farah</h1>
-<h3 align="center">Passionate about Frontend Web Development. Currently learning User Experience Design skills.</h3>
+<p align="center">Passionate about Frontend Web Development. Currently enhancing my User Experience Design skills.</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
